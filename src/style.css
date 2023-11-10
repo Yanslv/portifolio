@@ -2,13 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-  font-family: 'Fira Sans', sans-serif;
+@font-face {
+  font-family: 'Fira Sans';
+  src: url('assets/fonts/FiraSans-Regular.ttf');
 }
+
 
 :root {
   line-height: 1.5;
-  font-weight: 400;
   font-family: 'Fira Sans', sans-serif;
 
   color-scheme: light dark;

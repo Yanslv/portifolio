@@ -44,6 +44,11 @@ module.exports = {
         950: '#022c22' 
       }  
     },
+    extend: {
+      fontFamily: {
+        'Fira Sans': ['Fira Sans', 'sans-serif'],
+      },
+    }
   },
   plugins: [],
   }

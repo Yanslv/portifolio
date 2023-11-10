@@ -1,5 +1,5 @@
 <template>
-    <div class="px-4 pt-6 pb-2 bg-trasparent pl-96 pr-80 justify-between flex">
+    <div class="pt-6 pb-2 bg-trasparent pl-96 pr-80 justify-between flex">
         <div>
             <span>github</span>
         </div>
